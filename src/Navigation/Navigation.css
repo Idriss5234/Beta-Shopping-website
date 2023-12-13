@@ -1,0 +1,22 @@
+.Links {
+  background-color: black;
+  height: 10%;
+  padding: 15px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+link {
+  color: aliceblue;
+}
+
+.Title {
+  text-align: center;
+  margin-top: 25px;
+  font-size: 3em;
+  font-weight: 500;
+}
+.text {
+  padding: 10px;
+  color: aliceblue;
+}

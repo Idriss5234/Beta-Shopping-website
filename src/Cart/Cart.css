@@ -1,0 +1,24 @@
+.cartitems {
+  display: flex;
+  flex-direction: column; /* Display the items in a column */
+  align-items: center;
+  gap: 15px;
+  margin: 5px;
+}
+.btn0 {
+  margin: 10px;
+}
+.tot {
+  border: 2px solid blanchedalmond;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(142, 222, 242); /* Background color (optional) */
+  text-align: center; /* Center the text */
+  font-weight: bold; /* Make the text bold (optional) */
+  font-size: 18px; /* Adjust the font size (optional) */
+}
+.tota {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
